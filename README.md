@@ -8,16 +8,16 @@
 4. Responsive design to help users work across different devices
 
 ## **BRIEF TASK DESCRIPTION**
-**Tech-stacks used: HTML, CSS, JS**
-The given application fetches a README.md file (locally stored) containing LeetCode problem data. Then it Parses the file and extracts problem numbers, titles, and solution links. THen problems are displayed in a categorized list (LeetCode, LintCode, LeetCode Shell).
+- **Tech-stacks used: HTML, CSS, JS**
+- The given application fetches a README.md file (locally stored) containing LeetCode problem data. Then it Parses the file and extracts problem numbers, titles, and solution links. THen problems are displayed in a categorized list (LeetCode, LintCode, LeetCode Shell).
 The application allows users to select a programming language to view the corresponding solution. The solution to each problem is displayed in a dialog box.
 
 
-The given images display the interface of the website
+- The given images display the interface of the website
 
-![pic1](pic1.jpg)
+- ![pic1](pic1.jpg)
 
-![pic2](pic2.jpg)
+- ![pic2](pic2.jpg)
 
 
 # **INSTRUCTIONS TO RUN THE PROJECT**
