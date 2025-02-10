@@ -11,6 +11,6 @@
 Tech-stacks used: HTML, CSS, JS
 The given application fetches a README.md file (locally stored) containing LeetCode problem data. Then it Parses the file and extracts problem numbers, titles, and solution links. THen problems are displayed in a categorized list (LeetCode, LintCode, LeetCode Shell).
 The application allows users to select a programming language to view the corresponding solution. The solution to each problem is displayed in a dialog box.
-![pic1] (pic1.jpg)
+![pic1](pic1.jpg)
 C:\Users\Sahiba\OneDrive\Desktop\project 2\pic1.jpg
-![pic2](project 2\pic2.jpg)
+![pic2](project_GDSC\pic2.jpg)
