@@ -1,6 +1,6 @@
 //function gets fired when the entire html content is loaded
 document.addEventListener("DOMContentLoaded", function () {
-    const readmePath = "README.md";
+    const readmePath = "readmeproblems.md";
     const problemList = document.getElementById("problem-list");
     const searchInput = document.getElementById("search");
 
