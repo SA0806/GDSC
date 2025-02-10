@@ -15,9 +15,9 @@ The application allows users to select a programming language to view the corres
 
 - The given images display the interface of the website
 
-- ![pic1](pic1.jpg)
+ ![pic1](pic1.jpg)
 
-- ![pic2](pic2.jpg)
+ ![pic2](pic2.jpg)
 
 
 # **INSTRUCTIONS TO RUN THE PROJECT**
