@@ -13,4 +13,4 @@ The given application fetches a README.md file (locally stored) containing LeetC
 The application allows users to select a programming language to view the corresponding solution. The solution to each problem is displayed in a dialog box.
 ![pic1] (pic1.jpg)
 C:\Users\Sahiba\OneDrive\Desktop\project 2\pic1.jpg
-![pic2](C:\Users\Sahiba\OneDrive\Desktop\project 2\pic2.jpg)
+![pic2](project 2\pic2.jpg)
